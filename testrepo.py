@@ -11,3 +11,9 @@ print(count)
 print("another")
 
 print("something else")
+
+print("okay last time")
+
+print("once more")
+
+print("a")
